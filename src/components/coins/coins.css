@@ -1,0 +1,11 @@
+.previous-button{
+    padding: 20px;
+    cursor: pointer;
+}
+.name-content{
+    line-height: 32px;
+    color: #000000;
+}
+.description-content{
+    line-height: 25px;
+}

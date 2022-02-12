@@ -1,0 +1,62 @@
+.table-coin{
+    width: 88%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    box-shadow: -3px 7px 28px -8px rgba(0,0,0,0.43);
+    -webkit-box-shadow: -3px 7px 28px -8px rgba(0,0,0,0.43);
+    -moz-box-shadow: -3px 7px 28px -8px rgba(0,0,0,0.43);
+}
+.img-coins{
+    width: 25px;
+}
+.coinGecko-logo{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    text-align: right;
+    padding: 15px 30px 20px 25px;
+    color: #984081;
+}
+tr{
+    cursor: pointer;
+}
+th{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    color: #000000;
+}
+td{
+    font-family: 'Poppins', sans-serif;
+    color: #333333;
+}
+.current-price{
+    text-align: center;
+}
+.high-hour{
+    text-align: center;
+}
+.low-hour{
+    text-align: center;
+}
+.prev-button{
+    margin-right: 23px;
+    background-color: #FF2F00;
+    color: white;
+    border: 1px solid #FF2F00;
+    padding: 4px 31px;
+    border: unset !important;
+}
+.next-button{
+    background-color: #FF2F00;
+    color: white;
+    border: 1px solid #FF2F00;
+    padding: 4px 31px;
+}
+.pagination-button{
+    padding-bottom: 15px;
+}
+.display{
+    display: flex;
+}
