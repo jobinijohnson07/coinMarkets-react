@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/coinMarkets-react/static/css/main.ced30ece.css",
+    "main.js": "/coinMarkets-react/static/js/main.01203106.js",
+    "index.html": "/coinMarkets-react/index.html",
+    "static/media/dismissButton.svg": "/coinMarkets-react/static/media/dismissButton.eabc5050112317b221ac5d5ab949dac2.svg",
+    "main.ced30ece.css.map": "/coinMarkets-react/static/css/main.ced30ece.css.map",
+    "main.01203106.js.map": "/coinMarkets-react/static/js/main.01203106.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ced30ece.css",
+    "static/js/main.01203106.js"
+  ]
+}
